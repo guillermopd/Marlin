@@ -1,5 +1,21 @@
 # Marlin 3D Printer Firmware
 
+####This is a fork of tuned Marlin firmware for a BQ Prusa i3 Hephestos with heated bed and ATX power supply.
+
+A non complete list of changes applied:
+
+- ATX power supply (with auto-on/off)
+- PID bed heating
+- PID hotend heating
+- Dimensions
+- Endstops
+- Thermistors
+- EEPROM storage of settings
+- Mesh manual bed leveling
+- ...
+
+------------ 
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
